@@ -43,9 +43,9 @@
 #define RELAY_PIN 5
 #define TEMP_PIN 14
 
-#define LED_PIN_R 23
-#define LED_PIN_G 21
-#define LED_PIN_B 22
+#define LED_PIN_R 4 
+#define LED_PIN_G 16
+#define LED_PIN_B 17
 
 static const int16_t setpoint = 250;//540;
 
